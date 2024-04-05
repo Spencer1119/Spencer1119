@@ -1,4 +1,4 @@
-27 Year old self taught web developer from East TN.
+27 Year old self taught web developer from East TN. \n
 Proficient in python, javascript, SQL, HTML, SCSS.
 2 Years experience in full stack developement specifically on flask driven webapps.
 Currently learning java and swiftui.
