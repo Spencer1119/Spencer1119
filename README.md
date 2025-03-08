@@ -1,4 +1,4 @@
-27 Year old self taught web developer from East TN.
+28 Year old self taught web developer from East TN.
 
 Proficient in Python, Javascript, SQL, HTML, SCSS.
 
