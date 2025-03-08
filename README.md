@@ -2,7 +2,7 @@
 
 Proficient in Python, Javascript, SQL, HTML, SCSS.
 
-2 Years experience in full stack developement, specifically in Flask driven webapps.
+3 Years experience in full stack developement, specifically in Flask driven webapps.
 
 Branching out into Java and Swift.
 
