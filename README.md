@@ -1,10 +1,5 @@
-28 Year old self taught web developer from East TN.
-
-Proficient in Python, Javascript, SQL, HTML, SCSS.
-
-3 Years experience in full stack developement, specifically in Flask driven webapps.
-
-Branching out into Java and Swift.
+My name is Spencer.
+I am a 29 Year old software engineer from East TN with a bachelors degree in CS and I enjoy making things.
 
 Currently open to any new challenging projects that can further develop my problem solving and programming skills.
 
